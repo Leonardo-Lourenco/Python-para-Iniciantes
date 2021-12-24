@@ -1,5 +1,8 @@
 # Python para Iniciantes
 
+### Curso no YouTube:
+See [Configuration Reference](https://www.youtube.com/watch?v=BAfcrs0jAYU&list=PLFYSYBoGvrksZsvRPWv1QTHeIYaK9LT7N).
+
 ### Documentação Python:
 See [Configuration Reference](https://www.python.org/).
 

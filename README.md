@@ -24,3 +24,16 @@ See [Configuration Reference](https://thonny.org/).
 <li> Exercícios da Parte Básica </li>
 <li> IF, ELIF, ELSE, FOR, WHLE, BREAK, CONTINUE </li>
 <li> Exercícios IF, ELIF, ELSE, FOR, WHLE, BREAK, CONTINUE </li>
+<li> Funções em Python </li>
+<li> Funções Recursiva </li>
+<li> Funções Anonymous - Lambda em Python </li>
+<li> Variável Local e Global em Python </li>
+<li> Criando uma Calculadora com Python </li>
+<li> Listas em Python </li>
+<li> Tuplas em Python </li>
+<li> Strings em Python </li>
+<li> Dicionários em  Python </li>
+<li> Criando um Calendário Python </li>
+
+
+
